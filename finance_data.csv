@@ -1,0 +1,21 @@
+date,amount,category,description
+11-11-2024,500000,Income,Salary
+12-12-2005,456.0,Expense,hello
+15-01-2023,1500,Expense,Groceries
+03-02-2024,30000,Income,Freelance Work
+18-03-2023,800,Expense,Transport
+25-04-2024,125000,Income,Bonus
+07-05-2024,1000,Expense,Utilities
+12-06-2024,200,Expense,Coffee Shop
+22-07-2024,5000,Expense,Shopping
+01-08-2024,15000,Income,Investment Return
+15-09-2024,750,Expense,Internet Bill
+11-10-2024,10000,Income,Stock Dividends
+22-10-2024,200,Expense,Subscription
+05-11-2024,1500,Expense,Medical
+31-12-2024,2500,Expense,Dining Out
+01-01-2025,200000,Income,Salary
+14-02-2025,300,Expense,Books
+20-03-2025,2500,Expense,Entertainment
+15-04-2025,40000,Income,Freelance Project
+30-05-2025,600,Expense,Mobile Recharge
